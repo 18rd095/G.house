@@ -1,4 +1,4 @@
-# G.house
+# G.house ファイル共有
 Develop! develop deveeeeeelop!!
 別用途に使用してもOK！
 
