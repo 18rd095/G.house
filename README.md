@@ -1,4 +1,4 @@
 # G.house
 Develop! develop deveeeeeelop!!
 
-目標はUnityで簡単なゲームを作りたい
+# 目標はUnityで簡単なゲームを作りたい
