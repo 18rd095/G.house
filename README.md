@@ -6,4 +6,4 @@ Develop! develop deveeeeeelop!!
   <dt>使用言語</dt>
   <dd>c#</dd>
   <dt>Guthubの使い方参考サイト</dt>
-  <dd> <https://techacademy.jp/magazine/6235> </dd>
+  <dd> [使い方](https://techacademy.jp/magazine/6235) </dd>
