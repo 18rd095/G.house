@@ -1,7 +1,7 @@
-# G.house ファイル共有
+# D.house ファイル共有
 Develop! develop deveeeeeelop!!
 別用途に使用してもOK！
-
+Dendai.House
 <dl>
   <dt>目標</dt>
   <dd>Unityで簡単なゲームを作りたい</dd>
